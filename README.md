@@ -1,7 +1,7 @@
 # 📊 Interactive Data Analytics Dashboard
 
 ## Live Demo
-(Will be added after deployment)
+https://data-analytics-dashboard1.streamlit.app/
 
 ---
 
